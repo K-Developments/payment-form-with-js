@@ -1,0 +1,15 @@
+button{
+  padding:12px;
+  margin-left: 25px;
+  duration:500ms;
+  border-radius: 5px;
+
+}
+
+input{
+  cursor:pointer;
+}
+
+label{
+  cursor:pointer
+}

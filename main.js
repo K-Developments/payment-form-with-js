@@ -27,5 +27,3 @@ btn.onclick = function() {
     out.textContent = "Please read terms and conditions";
   }
 }
-
-//kaviya

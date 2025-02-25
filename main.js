@@ -11,7 +11,7 @@ btn.onclick = function() {
     out.textContent = ("Thanks for read terms & conditions");
 
     switch(check.checked){
-      case visa.checled:
+      case visa.checked:
         out2.textContent = "Your payment proceed with visa";
         break;
       case master.checked:
@@ -27,3 +27,5 @@ btn.onclick = function() {
     out.textContent = "Please read terms and conditions";
   }
 }
+
+//kaviya

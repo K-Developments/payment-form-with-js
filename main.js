@@ -28,3 +28,6 @@ btn.onclick = function() {
   }
   
 }
+
+
+//payment process
